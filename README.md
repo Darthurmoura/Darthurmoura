@@ -9,7 +9,7 @@ I want to become better at this and help make people have a better digital exper
 
 ---
 
-<img align="right" src="https://giphy.com/gifs/l3vRmVv5P01I5NDAA/html5">
+<img align="right" src="https://images.app.goo.gl/WeQWcgRZq3HCyUaL7">
 
 ## Languages and Tools I use
 
