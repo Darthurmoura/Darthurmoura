@@ -44,6 +44,7 @@ I want to become better at this and help make people have a better digital exper
 ### Wanna listen to some good music?
 
 Click below to go to my Spotify Profile:
+<br/>
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Wieglaf)](https://open.spotify.com/user/darthurmoura)
 
 ---
