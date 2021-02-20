@@ -9,37 +9,17 @@ I want to become better at this and help make people have a better digital exper
 
 ---
 
-### Languages and Tools I use
+## Languages and Tools I use
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-ReactRouter-61DAFB?style=for-the-badge&logo=react%20router&logoColor=white">
-<img src="https://img.shields.io/badge/-React Testing Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white">
-<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge&logo=express">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-ReactRouter-61DAFB?style=for-the-badge&logo=react%20router&logoColor=white"> <img src="https://img.shields.io/badge/-React Testing Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"> <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge&logo=express"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-### Other Languages I know
+## Other Languages I know
 
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=3776AB">
 
-### I want to learn
+## I want to learn
 
-<img src="https://img.shields.io/badge/-Vue-3a495d?style=for-the-badge&logo=vue.js&logoColor=67b7f7">
-<img src="https://img.shields.io/badge/-React Native-3a495d?style=for-the-badge&logo=react-native&logoColor=67b7f7"> 
-<img src="http://img.shields.io/badge/-Deno-black?style=for-the-badge&logo=deno&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=FFFFFF"> 
-<img src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Vue-3a495d?style=for-the-badge&logo=vue.js&logoColor=67b7f7"> <img src="https://img.shields.io/badge/-React Native-3a495d?style=for-the-badge&logo=react-native&logoColor=67b7f7"> <img src="http://img.shields.io/badge/-Deno-black?style=for-the-badge&logo=deno&logoColor=white"/> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=for-the-badge">
 
 ---
 
@@ -61,7 +41,7 @@ I want to become better at this and help make people have a better digital exper
 
 ### Wanna listen to some good music?
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=darthurmoura&count={5})
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Darthurmoura&count={5})](https://open.spotify.com/user/darthurmoura)
 
 Thanks for stopping by! Hope we get to build something cool together in the future 😄
 
@@ -70,4 +50,3 @@ Thanks for stopping by! Hope we get to build something cool together in the futu
 [instagram]: https://www.instagram.com/darthurmoura/
 [linkedin]: https://www.linkedin.com/in/darthurmoura/
 [medium]: https://medium.com/@darthurmoura/
-[spotify]: https://spotify
