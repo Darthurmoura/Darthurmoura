@@ -32,7 +32,7 @@ I want to become better at this and help make people have a better digital exper
 ### You can find in me in the web 🌍
 
 [<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-Darthurmoura-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />][website]
-[<img align="left" alt="@danielmoura" height="22px" src="http://img.shields.io/badge/-@danielmoura-12100E?style=for-the-badge&logo=Medium&logoColor=FFFFFF" />][medium]
+[<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-@Darthurmoura-12100E?style=for-the-badge&logo=Medium&logoColor=FFFFFF" />][medium]
 [<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-Darthurmoura-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF" />][twitter]
 [<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-Darthurmoura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />][linkedin]
 [<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-Darthurmoura-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />][instagram]
@@ -45,14 +45,16 @@ I want to become better at this and help make people have a better digital exper
 
 Click below to go to my Spotify Profile:
 <br/>
+<img align="right" width="300px" src="https://media3.giphy.com/media/mTuvku74NSGnC/giphy.gif">
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=darthurmoura)](https://open.spotify.com/user/darthurmoura)
 
 ---
 
 Thanks for stopping by! Hope we get to build something cool together in the future 😄
+<img align="right" width="300px" src="https://media3.giphy.com/media/fm4WhPMzu9hRK/giphy.gif">
 
 [website]: https://Darthurmoura.github.io/
 [twitter]: https://twitter.com/Darthurmoura
 [instagram]: https://www.instagram.com/darthurmoura/
 [linkedin]: https://www.linkedin.com/in/darthurmoura/
-[medium]: https://medium.com/@danielmoura/
+[medium]: https://medium.com/@darthurmoura/
