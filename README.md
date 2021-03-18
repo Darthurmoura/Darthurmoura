@@ -28,8 +28,7 @@ I want to become better at this and help make people have a more pleasant digita
 
 ## Quero Aprender | I want to learn
 
-<img src="https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF"> 
-<img src="https://img.shields.io/badge/-Vue-3a495d?style=for-the-badge&logo=vue.js&logoColor=67b7f7"> <img src="https://img.shields.io/badge/-React Native-000000?style=for-the-badge&logo=react&logoColor=00c8ff"> <img src="http://img.shields.io/badge/-Deno-white?style=for-the-badge&logo=deno&logoColor=black"/> <img src="https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000">  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=for-the-badge&logo=progressive">
+<img src="https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Vue-3a495d?style=for-the-badge&logo=vue.js&logoColor=67b7f7"> <img src="https://img.shields.io/badge/-React Native-000000?style=for-the-badge&logo=react&logoColor=00c8ff"> <img src="http://img.shields.io/badge/-Deno-white?style=for-the-badge&logo=deno&logoColor=black"/> <img src="https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=for-the-badge&logo=progressive">
 
 ---
 
