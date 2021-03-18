@@ -6,12 +6,10 @@
 
 Sou um estudante de Desenvolvimento Web FullStack pela **Trybe**. Já alcancei a certificação em desenvolvimento Front-End, usando JavaScript e React.js, junto com várias outras ferramentas para desenvoler e testar aplicações. Também adquiri conhecimento sobre gerenciamento de Bancos de Dados MongoDB e MySQL.
 🌱 Atualmente, estou aprendendo Back-End com Node.js e Express.js.
-
 Quero me tornar melhor nisso e ajudar as pessoas a terem uma experiência digital mais agradável.
-<br/>
+
 I am a Full-stack Web Development student at **Trybe**. I have already earned a certificate in Front-End development using JavaScript and React.js, along with other tools for designing and testing applications. I've also learned how to manage MongoDB and MySQL databases.
 🌱 I’m currently learning Back-End with Node.js and Express.js
-
 I want to become better at this and help make people have a more pleasant digital experience.
 
 ---
