@@ -57,9 +57,10 @@ Clique abaixo para visitar meu perfil no Spotify | Click below to go to my Spoti
 
 ---
 
-Obrigado pela visita! Espero que possamos criar algo bacana juntos no futuro 😄
-<br>
-Thanks for stopping by! Hope we get to build something cool together in the future 😄
+### Obrigado pela visita! Espero que possamos criar algo bacana juntos no futuro 😄
+
+### Thanks for stopping by! Hope we get to build something cool together in the future 😄
+
 <img align="right" width="300px" src="https://media3.giphy.com/media/fm4WhPMzu9hRK/giphy.gif">
 
 [website]: https://Darthurmoura.github.io/
