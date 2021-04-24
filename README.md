@@ -40,7 +40,7 @@ I want to become better at this and help make people have a more pleasant digita
 ### Você pode me encontrar aqui | You can find in me in the web 🌍
 
 [<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-Darthurmoura-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />][website]
-[<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-@Darthurmoura-12100E?style=for-the-badge&logo=Medium&logoColor=FFFFFF" />][medium]
+[<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-@danielmoura-12100E?style=for-the-badge&logo=Medium&logoColor=FFFFFF" />][medium]
 [<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-Darthurmoura-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF" />][twitter]
 [<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-Darthurmoura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />][linkedin]
 [<img align="left" alt="Darthurmoura" height="22px" src="http://img.shields.io/badge/-Darthurmoura-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />][instagram]
@@ -68,4 +68,4 @@ Clique abaixo para visitar meu perfil no Spotify | Click below to go to my Spoti
 [twitter]: https://twitter.com/Darthurmoura
 [instagram]: https://www.instagram.com/darthurmoura/
 [linkedin]: https://www.linkedin.com/in/darthurmoura/
-[medium]: https://medium.com/@darthurmoura/
+[medium]: https://medium.com/@danielmoura/
