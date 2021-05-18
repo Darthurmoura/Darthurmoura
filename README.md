@@ -4,7 +4,7 @@
 
 ---
 
-Sou um estudante de Desenvolvimento Web FullStack pela **Trybe**. Já alcancei a certificação em desenvolvimento Front-End, usando JavaScript e React.js, junto com várias outras ferramentas para desenvoler e testar aplicações. Também adquiri conhecimento sobre gerenciamento de Bancos de Dados MongoDB e MySQL.
+Sou um estudante de Desenvolvimento Web FullStack pela **Trybe**. Já alcancei a certificação em desenvolvimento Front-End, usando JavaScript e React.js, junto com várias outras ferramentas para desenvolver e testar aplicações. Também adquiri conhecimento sobre gerenciamento de Bancos de Dados MongoDB e MySQL.
 🌱 Atualmente, estou aprendendo Back-End com Node.js e Express.js.
 
 Quero me tornar melhor nisso e ajudar as pessoas a terem uma experiência digital mais agradável.
